@@ -1,40 +1,8 @@
-*{
-    margin: 5;
-    padding: 5;
-    text-decoration: none;
-    /*list-style: online;*/
-}
-
-h1{
-    color: aliceblue;
-}
-
 body{
-    background-image: url(https://i.pinimg.com/originals/6b/71/e0/6b71e0c74e6b42f53de0cefb7884f704.gif);
-    background-size: cover;
-    font-family: 'Caveat', cursive;
-}
-
-.cocotazo{
+    background-color: #2e2e2e;
     color: rgb(255, 255, 255);
-    background-color: rgb(255, 255, 255);
-    width:75; height: 30;
-    border-radius: 10px;
-    font-family: 'Caveat', cursive;
 }
 
-input{
+.oreo{
     color: rgb(255, 255, 255);
-    width: 400; height: 50;
-    border-radius: 10px;
-    font-family: 'Caveat', cursive;
-}
-
-label{
-    color: aliceblue;
-    font-family: 'Caveat', cursive;
-}
-
-boton:hover{
-    background-color: beige;
 }
